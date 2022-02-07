@@ -97,9 +97,8 @@ if __name__ == "__main__":
                 "height" : 20
             }
         )
-
     server.verbose = False
 
     server.port = 8521 #Default port
-    server.launch()        
+    server.launch()       
 
